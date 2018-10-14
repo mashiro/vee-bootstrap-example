@@ -1,6 +1,6 @@
-# test-project
+# vee-bootstrap-example
 
-> A Vue.js project
+> Vue + VeeValidate + BootstrapVue
 
 ## Build Setup
 
